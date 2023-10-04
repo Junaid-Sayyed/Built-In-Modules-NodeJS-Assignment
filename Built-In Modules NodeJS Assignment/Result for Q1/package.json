@@ -1,0 +1,22 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "This is my node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junaid-Sayyed/Built-In-Modules-NodeJS-Assignment.git"
+  },
+  "keywords": [
+    "first_project"
+  ],
+  "author": "junaid sayyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junaid-Sayyed/Built-In-Modules-NodeJS-Assignment/issues"
+  },
+  "homepage": "https://github.com/Junaid-Sayyed/Built-In-Modules-NodeJS-Assignment#readme"
+}
